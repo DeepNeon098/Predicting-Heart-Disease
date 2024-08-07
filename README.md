@@ -1,4 +1,5 @@
-#Heart Disease Prediction
+##Heart Disease Prediction
+
 Introduction
 This machine learning project aims to predict the presence of heart disease in individuals using various medical attributes. The dataset used in this project is sourced from Kaggle.
 
