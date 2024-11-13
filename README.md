@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-(https://img.shields.io/badge/Rows of Data Analyzed-12,523,335-green.svg)
+(https://img.shields.io/badge/Rows_of_Data_Analyzed-12,523,335-green)
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <th>rows of data analyzed</th>
