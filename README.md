@@ -1,5 +1,6 @@
 # Heart Disease Prediction
 
+[![Rows of Data Analyzed](https://img.shields.io/badge/12,523,335-green.svg)]
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <th>rows of data analyzed</th>
