@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Rows_of_Data_Analyzed-12%2C523%2C335-red">
+
 
 
 This project focuses on predicting heart disease in individuals using machine learning techniques. By leveraging a dataset from the UCI Machine Learning Repository, the project aims to develop models that can accurately identify the presence of heart disease based on various medical attributes.
